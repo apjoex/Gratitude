@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Gratitude</string>
+    <string name="gratitude_app_logo">Gratitude App logo</string>
+    <string name="developer_name">Akinde-peters</string>
 </resources>
